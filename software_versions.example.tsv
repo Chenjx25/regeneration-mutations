@@ -1,0 +1,14 @@
+software	version	status
+GATK	3.7	version recorded in legacy scripts
+VarScan	2.3.6	version recorded in legacy scripts
+BWA	TO_FILL	obtain from original environment
+SAMtools	TO_FILL	obtain from original environment
+BCFtools	TO_FILL	obtain from original environment
+BEDTools	TO_FILL	obtain from original environment
+VCFtools	TO_FILL	obtain from original environment
+FastQC	TO_FILL	obtain from original environment
+MultiQC	TO_FILL	obtain from original environment
+Java	TO_FILL	obtain from original environment
+Perl	TO_FILL	obtain from original environment
+Python	TO_FILL	obtain from original environment
+
