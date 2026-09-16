@@ -239,13 +239,11 @@ Before release, document the following for each species:
 - final SNV and indel counts per sample;
 - a checksum or summary comparison against the files used in the manuscript.
 
-The reorganized script has been structure-reviewed and the Python helper has been syntax-checked. The Bash driver cannot be executed or scientifically regression-tested on this Windows workstation because a Linux/WSL runtime, the original executables, custom helper scripts, reference genomes, and sequencing files are not available here.
-
 
 ## Data availability
 
-Do not commit raw FASTQ, BAM/CRAM, reference genomes, or large VCF files to a normal Git repository. Deposit sequencing reads in an appropriate public archive and processed data in a suitable repository, then add accessions and persistent links here. Small metadata tables, group definitions, configuration examples, checksums, and source-data summaries should be committed with the code.
+
 
 ## Citation and license
 
-Add the manuscript citation, repository DOI, software citations, and an explicit code license before public release. Confirm that the custom helper scripts may legally be redistributed.
+
